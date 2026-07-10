@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.yasahabazamanadrekni_rgb.twa",
+        "sha256_cert_fingerprints": ["8C:A4:62:03:95:0E:4B:C6:E5:92:F9:C4:0B:11:A2:B5:76:D7:19:1C:08:AF:99:0A:FA:ED:36:E2:C2:A4:15:5A"]
+      }
+    }]
